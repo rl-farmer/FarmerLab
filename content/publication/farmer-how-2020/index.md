@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-03-01'
-lastmod: 2020-12-01T10:40:38-06:00
+lastmod: 2020-12-01T12:29:29-06:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-01T16:40:36.852169Z'
+publishDate: '2020-12-01T18:29:29.104018Z'
 publication_types:
 - '2'
 abstract: Intelligence tests produce composite scores that are interpreted as indexes

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2020-08-01'
-lastmod: 2020-12-01T10:40:34-06:00
+lastmod: 2020-12-01T12:29:28-06:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-01T16:40:33.057990Z'
+publishDate: '2020-12-01T18:29:27.607058Z'
 publication_types:
 - '2'
 abstract: As the Vineland Scales are among the most relevant, well-developed, and

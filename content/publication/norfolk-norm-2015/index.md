@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2015-09-01'
-lastmod: 2020-12-01T10:40:47-06:00
+lastmod: 2020-12-01T12:29:33-06:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-01T16:40:45.985265Z'
+publishDate: '2020-12-01T18:29:32.973520Z'
 publication_types:
 - '2'
 abstract: The representativeness, recency, and size of norm samples strongly influence

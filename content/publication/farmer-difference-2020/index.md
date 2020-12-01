@@ -14,7 +14,7 @@ tags:
 - '"reliability"'
 categories: []
 date: '2020-01-01'
-lastmod: 2020-12-01T10:40:39-06:00
+lastmod: 2020-12-01T12:29:30-06:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-01T16:40:38.264635Z'
+publishDate: '2020-12-01T18:29:29.630272Z'
 publication_types:
 - '2'
 abstract: Many prominent intelligence tests (e.g., Wechsler Intelligence Scale for
@@ -46,6 +46,6 @@ abstract: Many prominent intelligence tests (e.g., Wechsler Intelligence Scale f
   is placed on comparisons recommended by test publishers and a discussion of minimum
   requirements for interpretation of differences scores is provided.
 publication: '*Psychology in the Schools*'
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/pits.22369
+url_pdf: https://psyarxiv.com/73gux/
 doi: https://doi.org/10.1002/pits.22369
 ---

@@ -17,7 +17,7 @@ tags:
 - '"trainees"'
 categories: []
 date: '2019-01-01'
-lastmod: 2020-12-01T10:40:41-06:00
+lastmod: 2020-12-01T12:29:31-06:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-01T16:40:40.540379Z'
+publishDate: '2020-12-01T18:29:30.727606Z'
 publication_types:
 - '2'
 abstract: The purpose of this study was to further examine the factor structure of

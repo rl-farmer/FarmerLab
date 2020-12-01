@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2020-12-01T10:40:40-06:00
+lastmod: 2020-12-01T12:29:30-06:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-01T16:40:39.449203Z'
+publishDate: '2020-12-01T18:29:30.173452Z'
 publication_types:
 - '2'
 abstract: Labels for scores stemming from intelligence tests have been employed since

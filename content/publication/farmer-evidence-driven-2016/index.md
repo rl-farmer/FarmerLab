@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2020-12-01T10:40:45-06:00
+lastmod: 2020-12-01T12:29:32-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-01T16:40:44.827161Z'
+publishDate: '2020-12-01T18:29:32.330617Z'
 publication_types:
 - '2'
 abstract: School-based practitioners are to implement and report functional behavior

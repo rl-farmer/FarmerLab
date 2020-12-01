@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2019-09-01'
-lastmod: 2020-12-01T10:40:44-06:00
+lastmod: 2020-12-01T12:29:32-06:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-01T16:40:43.235873Z'
+publishDate: '2020-12-01T18:29:31.799384Z'
 publication_types:
 - '2'
 abstract: 'The purpose of the current review is to examine three frequently employed

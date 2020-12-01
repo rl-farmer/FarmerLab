@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-09-01'
-lastmod: 2020-12-01T10:40:36-06:00
+lastmod: 2020-12-01T12:29:29-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-01T16:40:35.786195Z'
+publishDate: '2020-12-01T18:29:28.555851Z'
 publication_types:
 - '2'
 abstract: Repeated measurements of student ability (i.e., progressing monitoring)
